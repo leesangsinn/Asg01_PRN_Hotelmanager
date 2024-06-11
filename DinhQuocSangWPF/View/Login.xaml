@@ -1,0 +1,21 @@
+﻿<Window x:Class="DinhQuocSangWPF.Login"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:DinhQuocSangWPF"
+        WindowStartupLocation="CenterScreen"
+        mc:Ignorable="d"
+        Title="Login" Height="800" Width="1208">
+    <Grid Margin="0,0,286,84">
+
+        <TextBlock x:Name="Name2" HorizontalAlignment="Left" Margin="296,54,0,0" TextWrapping="Wrap" 
+               Text="Hotel Management System (HMS)" 
+               VerticalAlignment="Top" Height="229" Width="324" FontSize="48" Foreground="#FF828044"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="296,314,0,0" TextWrapping="Wrap" Text="Username or Email" VerticalAlignment="Top" Width="248" Foreground="#FFC11645" FontSize="22"/>
+        <TextBlock HorizontalAlignment="Left" Height="36" Margin="296,458,0,0" TextWrapping="Wrap" Text="Password" VerticalAlignment="Top" Width="248" Foreground="#FFC11645" FontSize="22"/>
+        <TextBox x:Name="Mail" HorizontalAlignment="Left" Height="70" Margin="296,355,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="568" FontSize="24"/>
+        <TextBox x:Name="Password" HorizontalAlignment="Left" Height="70" Margin="296,499,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="568" FontSize="24"/>
+        <Button x:Name="LoginButton" Content="&#xD;&#xA;Login&#xD;&#xA;" HorizontalAlignment="Left" Margin="492,603,0,0" VerticalAlignment="Top" Height="54" Width="176" Click="LoginButton_Click"/>
+    </Grid>
+</Window>

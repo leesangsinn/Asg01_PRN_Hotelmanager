@@ -1,0 +1,12 @@
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.deps.json
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.dll
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\bin\Debug\net8.0\ManageHotel.pdb
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.AssemblyReference.cache
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.GeneratedMSBuildEditorConfig.editorconfig
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfoInputs.cache
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.AssemblyInfo.cs
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.csproj.CoreCompileInputs.cache
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.dll
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\refint\ManageHotel.dll
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ManageHotel.pdb
+D:\support\ASS\DinhQuocSang_HE170092_A01\ManageHotel\obj\Debug\net8.0\ref\ManageHotel.dll
